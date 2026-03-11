@@ -40,7 +40,7 @@ However, skills like SQL, Excel, Python, and Tableau are in high demand. This me
 
 Due to the sample size being rather low in Finland, the following charts are made from US samples. 
 
-![Most optimal skills for Data Analysts](Images\skill_percent.png)!
+![Most optimal skills for Data Analysts](Images/skill_percent.png)!
 
 'Percent of Data Analyst jobs' represents the share of job postings that require a particular skill. Skills located in the top-right corner represent the most valuable combination of high demand and high salary, while those in the bottom-left corner represent the least valuable.
 
