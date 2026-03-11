@@ -3,7 +3,7 @@
 ## 1. What are the most demanded skills for the top 3 most popular data roles in Finland?
 Filtering out the popular data roles and getting the top skills for those data roles in Finland. [Click here to see.](2_skills_count.ipynb)
 
-![Visualization of top skills in Finland](Images/Skills_FI.png)
+![Visualization of top skills in Finland](Images/Skills_FI.png)!
 
 While SQL is more valued in Data Analyst roles in Finland, Python knowledge outshines SQL in Data Engineer and Data Scientist roles. However, Python and SQL have the highest demand across all three roles.
 
@@ -19,3 +19,29 @@ During the whole year, SQL is the most requested skill and Python is the second 
 In the United States, SQL and Python are also the most requested job skills throughout the year, and the demand shows a decreasing trend. This means the trend is similar to Finland, where these skills are most in demand at the beginning of the year.
 
 It should be noted that due to the small sample size in Finland, the results are not as accurate as those for the United States. However, the results can still be used to make estimations.
+
+## 3. How much do jobs pay for Data Analysts?
+
+### Salary analysis 
+
+![Salary Distribution of Daja Jobs in Finland](Images/boxplot.png)!
+
+Machine Learning Engineers are the highest-paid data professionals in Finland. Senior Data Scientists are a close second, followed by Data Scientists. The fourth and fifth highest-paid roles are Data Analysts.
+
+### What are the most popular and highest paid skills for Data Analysts?
+
+![Highest paid and most in demand skills for data analysts in the US](Images/Skills2.png)!
+
+Top-paying skills involve software that requires fairly specialized technical expertise. This suggests that strong proficiency in niche technical skills can lead to higher pay.
+
+However, skills like SQL, Excel, Python, and Tableau are in high demand. This means they are the core skills employers require, while niche technical skills are typically valued on top of these.
+
+## 4. What is the optimal skill for data analyst job markets? 
+
+Due to the sample size being rather low in Finland, the following charts are made from US samples. 
+
+![Most optimal skills for Data Analysts](Images\skill_percent.png)!
+
+'Percent of Data Analyst jobs' represents the share of job postings that require a particular skill. Skills located in the top-right corner represent the most valuable combination of high demand and high salary, while those in the bottom-left corner represent the least valuable.
+
+Programming tools such as SQL and Python stand out compared to other skills. Analyst tools are also highly valued in the Data Analyst job market, particularly Tableau and Excel.
