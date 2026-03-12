@@ -28,18 +28,7 @@ Data Engineers can leverage more technical skills on software platforms like Azu
 
 Compared to US, Python is more appreciated skill in Finland for Data Analyst roles. Else than that, other skills for other roles seem to follow the US's trends.
 
-## 3. How job skills are trending for Data Analysts in Finland?
-
-[Click here to see.](3_skills_trend.ipynb)
-![Trending job skills for Data Analysts in Finland](Images/Trending_skills.png)
-
-During the whole year, SQL is the most requested skill and Python is the second most demanded skill. However, both SQL and Python are more in demand during the first half of the year, and demand decreases during the second half. The trend for Python is especially noticeable.
-
-In the United States, SQL and Python are also the most requested job skills throughout the year, and the demand shows a decreasing trend. This means the trend is similar to Finland, where these skills are most in demand at the beginning of the year.
-
-It should be noted that due to the small sample size in Finland, the results are not as accurate as those for the United States. However, the results can still be used to make estimations.
-
-## 4. How much do jobs pay for Data Analysts?
+## 3. How much do jobs pay for Data Analysts?
 [Click here to see.](4_salary_analysis.ipynb)
 ### Salary analysis 
 
@@ -57,7 +46,7 @@ Top-paying skills involve software that requires fairly specialized technical ex
 
 However, skills like SQL, Excel, Python, and Tableau are in high demand. This means they are the core skills employers require, while niche technical skills are typically valued on top of these.
 
-## 5. What is the optimal skill for data analyst job markets? 
+## 4. What is the optimal skill for data analyst job markets? 
 
 [Click here to see.](5_optimal_skills.ipynb)
 ![Most optimal skills for Data Analysts](Images/skill_percent.png)
