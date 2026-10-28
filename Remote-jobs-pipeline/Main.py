@@ -3,10 +3,8 @@ import subprocess
 import sys
 from pathlib import Path
 
-# Projektin pääkansio
 BASE_DIR = Path(__file__).resolve().parent
 
-# Pipeline-vaiheet oikeassa järjestyksessä
 scripts = [
     "Extract.py",
     "Transform.py",
