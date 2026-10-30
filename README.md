@@ -60,7 +60,6 @@ An overview of remote job opportunities, providing insights into the remote job 
 
 ## 1. Where in Finland are the data jobs located and what are the degree requirements?
 
-[Click here to see.](1_EDA_intro.ipynb)
 ![Where Data Jobs are located.](Images/location.png)
 
 The chart suggests that, by a large margin, most data-related jobs in Finland are located in the capital city of Helsinki. The next highest number of data jobs are in Espoo, while Tampere holds the third position.
@@ -74,7 +73,7 @@ Finland’s data job market mostly requires a degree. Most job postings in the d
 This phenomenon could be partly explained by Finland’s free education system. However, Finland’s tertiary education attainment rate is relatively low compared to peer countries.
 
 ## 2. What are the most demanded skills for the top 3 most popular data roles in Finland?
-Filtering out the popular data roles and getting the top skills for those data roles in Finland. [Click here to see.](2_skills_count.ipynb)
+Filtering out the popular data roles and getting the top skills for those data roles in Finland. 
 
 ![Visualization of top skills in Finland](Images/Skills_FI.png)
 
@@ -85,7 +84,7 @@ Data Engineers can leverage more technical skills on software platforms like Azu
 Compared to US, Python is more appreciated skill in Finland for Data Analyst roles. Else than that, other skills for other roles seem to follow the US's trends.
 
 ## 3. How much do jobs pay for Data Analysts?
-[Click here to see.](4_salary_analysis.ipynb)
+
 ### Salary analysis 
 
 ![Salary Distribution of Daja Jobs in Finland](Images/boxplot.png)
@@ -104,7 +103,6 @@ However, skills like SQL, Excel, Python, and Tableau are in high demand. This me
 
 ## 4. What is the optimal skill for data analyst job markets? 
 
-[Click here to see.](5_optimal_skills.ipynb)
 ![Most optimal skills for Data Analysts](Images/skill_percent.png)
 
 'Percent of Data Analyst jobs' represents the share of job postings that require a particular skill. Skills located in the top-right corner represent the most valuable combination of high demand and high salary, while those in the bottom-left corner represent the least valuable.
