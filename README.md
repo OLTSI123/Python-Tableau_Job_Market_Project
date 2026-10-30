@@ -1,34 +1,62 @@
-# Job Market Data Pipeline
-
-![Dashboard](Images/Dashboard.png)
-
 ## Project Overview
 
-This project demonstrates an automated ETL (Extract, Transform, Load) pipeline built with Python. The purpose is to collect remote job postings from the Remotive API, process and clean the data, and store the results in a SQLite database for further analysis.
+This project explores the data job market in Finland and the remote job market using Python, Tableau and SQL.
 
-The project focuses on automating data collection and building a structured data pipeline that can be used for data exploration and reporting.
+The main objective is to identify trends in data-related job opportunities, understand which technical skills are most in demand, investigate salary differences across data roles, and explore the skills that offer the greatest value in the job market
 
-## Technologies Used
+The project consists of two main parts:
 
-Python – Main programming language
+## 1. Finnish Data Job Market Analysis
+Using Python and Pandas, I explored job postings to investigate:
 
-Requests – API integration and data retrieval
+Where data-related jobs are located in Finland.
+Educational requirements and remote work opportunities.
+The most in-demand skills for Data Analysts, Data Engineers and Data Scientists.
+Salary differences across data-related roles.
+The relationship between skill demand and average salaries.
+The findings are presented through data visualizations and Tableau dashboards.
 
-Pandas – Data manipulation and transformation
+## 2. Job Market – ETL Pipeline
+I also developed an automated ETL pipeline using Python to collect and process remote job postings from the Remotive API.
 
-SQLite – Database storage
+The pipeline consists of three stages:
 
-CSV – Data storage between pipeline stages
+Extract: Retrieve job postings from the Remotive API.
+Transform: Clean and prepare the collected data.
+Load: Store the processed data in a SQLite database.
+The pipeline is automated using Python's subprocess module, allowing all three stages to run sequentially.
 
-Subprocess – Pipeline automation
+## Technologies & Tools
 
-Pathlib – File path management
+Python: Data analysis and ETL development
 
-Tableau - Dashboard creation
+Pandas: Data manipulation and cleaning
 
-# Python-Tableau Job Market Project
+Requests: REST API integration
+
+SQL / SQLite: Database management and data storage
+
+Matplotlib & Seaborn: Data visualization
+
+Tableau: Dashboard development
+
+Jupyter Notebook: Exploratory data analysis
+
+Git & GitHub: Version control and project documentation
+
+## Dashboards
+
+1. Finland Data Job Market Dashboard
+
+An overview of the Finnish data job market, highlighting job opportunities, salaries and in-demand skills.
 
 ![Dashboard](Images/dashboard_job_market.png)
+
+2. Jobs Pipeline Dashboard 
+
+An overview of remote job opportunities, providing insights into the remote job market based on data collected through the Python ETL pipeline.
+
+![Dashboard](Images/Dashboard.png)
 
 ## 1. Where in Finland are the data jobs located and what are the degree requirements?
 
