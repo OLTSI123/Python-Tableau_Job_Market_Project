@@ -11,12 +11,19 @@ The project focuses on automating data collection and building a structured data
 ## Technologies Used
 
 Python – Main programming language
+
 Requests – API integration and data retrieval
+
 Pandas – Data manipulation and transformation
+
 SQLite – Database storage
+
 CSV – Data storage between pipeline stages
+
 Subprocess – Pipeline automation
+
 Pathlib – File path management
+
 Tableau - Dashboard creation
 
 # Python-Tableau Job Market Project
