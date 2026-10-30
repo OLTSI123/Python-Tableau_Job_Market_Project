@@ -1,0 +1,17 @@
+
+# Conda environment
+.conda/
+
+# Other project
+credit-risk-analysis-python/
+
+# Local datasets
+data_jobs_FI.csv
+data_skills_perc.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
