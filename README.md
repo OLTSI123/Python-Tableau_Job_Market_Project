@@ -17,6 +17,7 @@ SQLite – Database storage
 CSV – Data storage between pipeline stages
 Subprocess – Pipeline automation
 Pathlib – File path management
+Tableau - Dashboard creation
 
 # Python-Tableau Job Market Project
 
