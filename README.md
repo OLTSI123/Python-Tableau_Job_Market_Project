@@ -46,13 +46,13 @@ Git & GitHub: Version control and project documentation
 
 ## Dashboards
 
-1. Finland Data Job Market Dashboard
+### 1. Finland Data Job Market Dashboard
 
 An overview of the Finnish data job market, highlighting job opportunities, salaries and in-demand skills.
 
 ![Dashboard](Images/dashboard_job_market.png)
 
-2. Jobs Pipeline Dashboard 
+### 2. Jobs Pipeline Dashboard 
 
 An overview of remote job opportunities, providing insights into the remote job market based on data collected through the Python ETL pipeline.
 
