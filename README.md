@@ -1,14 +1,26 @@
-
-
-![Dashboard](Images/dashboard_job_market.png)
+# Job Market Data Pipeline
 
 ![Dashboard](Images/Dashboard.png)
 
+## Project Overview
 
+This project demonstrates an automated ETL (Extract, Transform, Load) pipeline built with Python. The purpose is to collect remote job postings from the Remotive API, process and clean the data, and store the results in a SQLite database for further analysis.
 
-# The Analysis
+The project focuses on automating data collection and building a structured data pipeline that can be used for data exploration and reporting.
 
-*The project was completed with the help of Luke Barousse’s Python project.*
+## Technologies Used
+
+Python – Main programming language
+Requests – API integration and data retrieval
+Pandas – Data manipulation and transformation
+SQLite – Database storage
+CSV – Data storage between pipeline stages
+Subprocess – Pipeline automation
+Pathlib – File path management
+
+# Python-Tableau Job Market Project
+
+![Dashboard](Images/dashboard_job_market.png)
 
 ## 1. Where in Finland are the data jobs located and what are the degree requirements?
 
