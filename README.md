@@ -2,6 +2,9 @@
 
 ![Dashboard](Images/dashboard_job_market.png)
 
+![Dashboard](Images/Dashboard.png)
+
+
 
 # The Analysis
 

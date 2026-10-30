@@ -1,0 +1,852 @@
+job_skills,job_title_short,skill_count,jobs_total,skill_percent
+python,Data Engineer,397,699,56.795422031473535
+sql,Data Engineer,388,699,55.50786838340486
+azure,Data Engineer,351,699,50.21459227467811
+aws,Data Engineer,248,699,35.479256080114446
+python,Data Scientist,207,339,61.06194690265487
+sql,Data Analyst,191,388,49.22680412371134
+snowflake,Data Engineer,155,699,22.17453505007153
+databricks,Data Engineer,155,699,22.17453505007153
+python,Software Engineer,150,402,37.3134328358209
+python,Data Analyst,143,388,36.855670103092784
+power bi,Data Engineer,141,699,20.17167381974249
+sql,Data Scientist,137,339,40.41297935103245
+spark,Data Engineer,134,699,19.170243204577968
+kafka,Data Engineer,128,699,18.311874105865524
+kubernetes,Software Engineer,104,402,25.870646766169155
+python,Senior Data Engineer,100,169,59.171597633136095
+aws,Software Engineer,100,402,24.875621890547265
+azure,Senior Data Engineer,99,169,58.57988165680474
+aws,Senior Data Engineer,97,169,57.396449704142015
+airflow,Data Engineer,91,699,13.01859799713877
+python,Senior Data Scientist,91,111,81.98198198198199
+r,Data Analyst,89,388,22.938144329896907
+power bi,Data Analyst,87,388,22.422680412371133
+tableau,Data Analyst,85,388,21.90721649484536
+python,Machine Learning Engineer,83,101,82.17821782178218
+r,Data Scientist,82,339,24.188790560471976
+gcp,Data Engineer,80,699,11.444921316165951
+linux,Software Engineer,79,402,19.65174129353234
+sql,Senior Data Engineer,73,169,43.19526627218935
+java,Data Engineer,73,699,10.44349070100143
+sql,Business Analyst,71,177,40.112994350282484
+sql,Software Engineer,71,402,17.66169154228856
+aws,Data Scientist,70,339,20.64896755162242
+kubernetes,Data Engineer,68,699,9.72818311874106
+typescript,Software Engineer,67,402,16.666666666666668
+docker,Software Engineer,67,402,16.666666666666668
+tableau,Data Engineer,66,699,9.44206008583691
+sql,Senior Data Scientist,61,111,54.95495495495496
+react,Software Engineer,61,402,15.17412935323383
+go,Software Engineer,59,402,14.676616915422885
+excel,Data Analyst,58,388,14.948453608247423
+spark,Senior Data Engineer,57,169,33.72781065088758
+docker,Data Engineer,56,699,8.011444921316166
+sql server,Data Engineer,56,699,8.011444921316166
+looker,Data Analyst,54,388,13.917525773195877
+azure,Data Scientist,53,339,15.634218289085545
+azure,Software Engineer,53,402,13.18407960199005
+snowflake,Senior Data Engineer,53,169,31.36094674556213
+ssis,Data Engineer,50,699,7.15307582260372
+mongodb,Software Engineer,48,402,11.940298507462687
+sql,Senior Data Analyst,48,67,71.64179104477611
+java,Software Engineer,48,402,11.940298507462687
+excel,Business Analyst,48,177,27.11864406779661
+javascript,Software Engineer,47,402,11.691542288557214
+databricks,Senior Data Engineer,47,169,27.810650887573964
+terraform,Data Engineer,46,699,6.580829756795422
+python,Business Analyst,44,177,24.858757062146893
+scala,Data Engineer,44,699,6.294706723891273
+redshift,Data Engineer,44,699,6.294706723891273
+flow,Data Engineer,43,699,6.1516452074391985
+power bi,Business Analyst,43,177,24.293785310734464
+java,Senior Data Engineer,43,169,25.443786982248522
+go,Data Scientist,42,339,12.389380530973451
+postgresql,Software Engineer,41,402,10.199004975124378
+python,Senior Data Analyst,41,67,61.19402985074627
+go,Data Engineer,40,699,5.7224606580829755
+node.js,Software Engineer,40,402,9.950248756218905
+terraform,Software Engineer,39,402,9.701492537313433
+spark,Data Scientist,39,339,11.504424778761061
+git,Data Engineer,39,699,5.579399141630901
+gcp,Senior Data Engineer,38,169,22.485207100591715
+kafka,Senior Data Engineer,37,169,21.893491124260354
+c++,Software Engineer,37,402,9.203980099502488
+pandas,Data Scientist,37,339,10.914454277286136
+github,Software Engineer,37,402,9.203980099502488
+postgresql,Data Engineer,36,699,5.150214592274678
+go,Data Analyst,36,388,9.278350515463918
+nosql,Data Engineer,36,699,5.150214592274678
+terraform,Senior Data Engineer,36,169,21.301775147928993
+r,Data Engineer,35,699,5.007153075822604
+power bi,Data Scientist,35,339,10.32448377581121
+aws,Machine Learning Engineer,34,101,33.663366336633665
+looker,Senior Data Scientist,33,111,29.72972972972973
+snowflake,Senior Data Scientist,33,111,29.72972972972973
+tableau,Data Scientist,33,339,9.734513274336283
+python,Cloud Engineer,32,111,28.82882882882883
+pytorch,Machine Learning Engineer,32,101,31.683168316831683
+mongodb,Data Engineer,32,699,4.577968526466381
+tableau,Business Analyst,32,177,18.07909604519774
+git,Software Engineer,32,402,7.960199004975125
+spark,Senior Data Scientist,32,111,28.82882882882883
+azure,Data Analyst,31,388,7.989690721649485
+kafka,Software Engineer,31,402,7.711442786069652
+bigquery,Data Engineer,31,699,4.434907010014306
+azure,Cloud Engineer,31,111,27.92792792792793
+power bi,Senior Data Analyst,30,67,44.776119402985074
+sap,Data Engineer,30,699,4.291845493562231
+snowflake,Data Analyst,30,388,7.731958762886598
+aws,Cloud Engineer,30,111,27.027027027027028
+php,Software Engineer,28,402,6.965174129353234
+airflow,Senior Data Scientist,28,111,25.225225225225227
+kafka,Senior Data Scientist,28,111,25.225225225225227
+go,Senior Data Engineer,27,169,15.976331360946746
+github,Data Engineer,27,699,3.8626609442060085
+hadoop,Data Engineer,26,699,3.719599427753934
+gcp,Software Engineer,26,402,6.467661691542289
+docker,Machine Learning Engineer,26,101,25.742574257425744
+sas,Data Analyst,26,388,6.701030927835052
+kubernetes,Senior Data Engineer,26,169,15.384615384615385
+aws,Data Analyst,26,388,6.701030927835052
+airflow,Senior Data Engineer,25,169,14.792899408284024
+linux,Data Engineer,25,699,3.57653791130186
+scala,Senior Data Engineer,25,169,14.792899408284024
+excel,Software Engineer,24,402,5.970149253731344
+scala,Software Engineer,24,402,5.970149253731344
+sql,Cloud Engineer,24,111,21.62162162162162
+databricks,Data Scientist,24,339,7.079646017699115
+kubernetes,Machine Learning Engineer,24,101,23.762376237623762
+mongodb,Data Scientist,24,339,7.079646017699115
+aws,Senior Data Scientist,24,111,21.62162162162162
+mysql,Software Engineer,24,402,5.970149253731344
+redis,Software Engineer,23,402,5.721393034825871
+azure,Machine Learning Engineer,23,101,22.77227722772277
+docker,Data Scientist,23,339,6.784660766961652
+docker,Senior Data Scientist,23,111,20.72072072072072
+ssrs,Data Engineer,23,699,3.290414878397711
+mysql,Data Engineer,22,699,3.1473533619456364
+flow,Data Scientist,22,339,6.489675516224189
+jira,Software Engineer,22,402,5.472636815920398
+sas,Data Scientist,22,339,6.489675516224189
+javascript,Cloud Engineer,22,111,19.81981981981982
+bigquery,Data Analyst,21,388,5.412371134020619
+c#,Software Engineer,21,402,5.223880597014926
+r,Senior Data Scientist,21,111,18.91891891891892
+excel,Data Engineer,21,699,3.004291845493562
+java,Data Scientist,21,339,6.1946902654867255
+gcp,Data Scientist,21,339,6.1946902654867255
+git,Data Scientist,21,339,6.1946902654867255
+r,Business Analyst,20,177,11.299435028248588
+c#,Data Engineer,20,699,2.8612303290414878
+c,Software Engineer,20,402,4.975124378109452
+tensorflow,Machine Learning Engineer,20,101,19.801980198019802
+jira,Data Engineer,20,699,2.8612303290414878
+docker,Senior Data Engineer,19,169,11.242603550295858
+c,Data Analyst,19,388,4.896907216494846
+tableau,Senior Data Analyst,19,67,28.35820895522388
+airflow,Data Scientist,19,339,5.6047197640118
+confluence,Software Engineer,19,402,4.72636815920398
+spark,Software Engineer,19,402,4.72636815920398
+kubernetes,Data Scientist,18,339,5.3097345132743365
+r,Senior Data Analyst,18,67,26.865671641791046
+javascript,Data Engineer,18,699,2.575107296137339
+dax,Data Analyst,18,388,4.639175257731959
+flow,Software Engineer,18,402,4.477611940298507
+nosql,Senior Data Engineer,18,169,10.650887573964496
+windows,Software Engineer,17,402,4.2288557213930345
+tableau,Senior Data Scientist,17,111,15.315315315315315
+qlik,Data Engineer,17,699,2.432045779685265
+sql,Machine Learning Engineer,17,101,16.831683168316832
+azure,Business Analyst,17,177,9.6045197740113
+excel,Data Scientist,17,339,5.014749262536873
+html,Cloud Engineer,17,111,15.315315315315315
+flow,Data Analyst,17,388,4.381443298969073
+gcp,Cloud Engineer,17,111,15.315315315315315
+git,Data Analyst,17,388,4.381443298969073
+java,Machine Learning Engineer,17,101,16.831683168316832
+terraform,Cloud Engineer,17,111,15.315315315315315
+snowflake,Business Analyst,16,177,9.03954802259887
+databricks,Machine Learning Engineer,16,101,15.841584158415841
+redshift,Senior Data Engineer,16,169,9.467455621301776
+bash,Software Engineer,16,402,3.9800995024875623
+jenkins,Software Engineer,16,402,3.9800995024875623
+ruby,Software Engineer,16,402,3.9800995024875623
+mongodb,Data Analyst,16,388,4.123711340206185
+pyspark,Data Engineer,15,699,2.1459227467811157
+looker,Senior Data Analyst,15,67,22.388059701492537
+oracle,Data Engineer,15,699,2.1459227467811157
+redshift,Data Analyst,15,388,3.865979381443299
+numpy,Data Scientist,15,339,4.424778761061947
+gitlab,Software Engineer,15,402,3.7313432835820897
+java,Data Analyst,15,388,3.865979381443299
+nosql,Software Engineer,15,402,3.7313432835820897
+golang,Software Engineer,14,402,3.482587064676617
+spark,Machine Learning Engineer,14,101,13.861386138613861
+databricks,Data Analyst,14,388,3.6082474226804124
+power bi,Senior Data Scientist,14,111,12.612612612612613
+mongodb,Senior Data Engineer,14,169,8.284023668639053
+snowflake,Software Engineer,14,402,3.482587064676617
+excel,Senior Data Analyst,14,67,20.895522388059703
+c++,Machine Learning Engineer,14,101,13.861386138613861
+css,Software Engineer,14,402,3.482587064676617
+confluence,Data Engineer,14,699,2.0028612303290414
+azure,Senior Data Scientist,14,111,12.612612612612613
+go,Business Analyst,14,177,7.909604519774011
+gdpr,Data Scientist,14,339,4.129793510324483
+qlik,Data Analyst,13,388,3.350515463917526
+pytorch,Data Scientist,13,339,3.8348082595870205
+linux,Data Scientist,13,339,3.8348082595870205
+tensorflow,Data Scientist,13,339,3.8348082595870205
+looker,Data Engineer,13,699,1.859799713876967
+powershell,Data Engineer,13,699,1.859799713876967
+kubernetes,Cloud Engineer,13,111,11.711711711711711
+typescript,Data Engineer,13,699,1.859799713876967
+javascript,Data Scientist,13,339,3.8348082595870205
+react,Data Engineer,13,699,1.859799713876967
+sheets,Software Engineer,13,402,3.2338308457711444
+scikit-learn,Data Scientist,13,339,3.8348082595870205
+snowflake,Data Scientist,13,339,3.8348082595870205
+pandas,Data Engineer,13,699,1.859799713876967
+power bi,Senior Data Engineer,12,169,7.100591715976331
+pyspark,Data Scientist,12,339,3.5398230088495577
+tableau,Cloud Engineer,12,111,10.81081081081081
+kotlin,Software Engineer,12,402,2.985074626865672
+flow,Business Analyst,12,177,6.779661016949152
+flask,Software Engineer,12,402,2.985074626865672
+excel,Senior Data Engineer,12,169,7.100591715976331
+ubuntu,Software Engineer,12,402,2.985074626865672
+jenkins,Data Engineer,12,699,1.7167381974248928
+bigquery,Software Engineer,12,402,2.985074626865672
+hadoop,Data Scientist,12,339,3.5398230088495577
+graphql,Software Engineer,12,402,2.985074626865672
+scala,Data Scientist,12,339,3.5398230088495577
+gcp,Machine Learning Engineer,12,101,11.881188118811881
+ansible,Software Engineer,12,402,2.985074626865672
+airflow,Data Analyst,11,388,2.8350515463917527
+dax,Senior Data Analyst,11,67,16.417910447761194
+sap,Data Analyst,11,388,2.8350515463917527
+html,Software Engineer,11,402,2.736318407960199
+java,Cloud Engineer,11,111,9.90990990990991
+go,Machine Learning Engineer,11,101,10.891089108910892
+go,Cloud Engineer,11,111,9.90990990990991
+git,Machine Learning Engineer,11,101,10.891089108910892
+react,Cloud Engineer,11,111,9.90990990990991
+airflow,Machine Learning Engineer,11,101,10.891089108910892
+aws,Business Analyst,11,177,6.214689265536723
+c++,Data Engineer,11,699,1.5736766809728182
+bash,Data Engineer,11,699,1.5736766809728182
+qlik,Business Analyst,11,177,6.214689265536723
+linux,Cloud Engineer,11,111,9.90990990990991
+spark,Data Analyst,11,388,2.8350515463917527
+t-sql,Data Engineer,11,699,1.5736766809728182
+qlik,Data Scientist,11,339,3.2448377581120944
+gdpr,Senior Data Engineer,10,169,5.9171597633136095
+hadoop,Senior Data Engineer,10,169,5.9171597633136095
+django,Software Engineer,10,402,2.487562189054726
+go,Senior Data Scientist,10,111,9.00900900900901
+elasticsearch,Software Engineer,10,402,2.487562189054726
+ansible,Data Engineer,10,699,1.4306151645207439
+linux,Data Analyst,10,388,2.577319587628866
+azure,Senior Data Analyst,10,67,14.925373134328359
+excel,Machine Learning Engineer,10,101,9.900990099009901
+jenkins,Senior Data Engineer,10,169,5.9171597633136095
+looker,Data Scientist,10,339,2.949852507374631
+postgresql,Data Scientist,10,339,2.949852507374631
+looker,Business Analyst,10,177,5.649717514124294
+ruby,Data Engineer,10,699,1.4306151645207439
+gdpr,Data Analyst,10,388,2.577319587628866
+looker,Cloud Engineer,10,111,9.00900900900901
+powerpoint,Data Analyst,9,388,2.3195876288659796
+terraform,Machine Learning Engineer,9,101,8.910891089108912
+snowflake,Machine Learning Engineer,9,101,8.910891089108912
+terraform,Data Scientist,9,339,2.6548672566371683
+fastapi,Software Engineer,9,402,2.2388059701492535
+numpy,Data Engineer,9,699,1.2875536480686696
+spring,Software Engineer,9,402,2.2388059701492535
+elasticsearch,Senior Data Engineer,9,169,5.325443786982248
+sap,Data Scientist,9,339,2.6548672566371683
+redshift,Software Engineer,9,402,2.2388059701492535
+bigquery,Senior Data Engineer,9,169,5.325443786982248
+docker,Cloud Engineer,9,111,8.108108108108109
+word,Data Analyst,9,388,2.3195876288659796
+javascript,Data Analyst,9,388,2.3195876288659796
+node.js,Data Engineer,9,699,1.2875536480686696
+mysql,Data Scientist,9,339,2.6548672566371683
+gdpr,Software Engineer,9,402,2.2388059701492535
+oracle,Business Analyst,9,177,5.084745762711864
+gcp,Senior Data Scientist,9,111,8.108108108108109
+vba,Data Analyst,9,388,2.3195876288659796
+unreal,Data Engineer,8,699,1.1444921316165952
+selenium,Data Engineer,8,699,1.1444921316165952
+nosql,Data Scientist,8,339,2.359882005899705
+snowflake,Senior Data Analyst,8,67,11.940298507462687
+oracle,Senior Data Engineer,8,169,4.733727810650888
+slack,Data Engineer,8,699,1.1444921316165952
+kafka,Data Scientist,8,339,2.359882005899705
+bigquery,Data Scientist,8,339,2.359882005899705
+oracle,Software Engineer,8,402,1.9900497512437811
+matlab,Data Scientist,8,339,2.359882005899705
+ansible,Cloud Engineer,8,111,7.207207207207207
+sap,Business Analyst,8,177,4.519774011299435
+github,Senior Data Engineer,8,169,4.733727810650888
+gitlab,Data Engineer,8,699,1.1444921316165952
+sap,Senior Data Engineer,8,169,4.733727810650888
+dax,Business Analyst,8,177,4.519774011299435
+elasticsearch,Data Engineer,8,699,1.1444921316165952
+oracle,Data Scientist,8,339,2.359882005899705
+vue,Software Engineer,8,402,1.9900497512437811
+git,Senior Data Engineer,7,169,4.1420118343195265
+databricks,Senior Data Scientist,7,111,6.306306306306307
+jira,Business Analyst,7,177,3.9548022598870056
+excel,Senior Data Scientist,7,111,6.306306306306307
+airflow,Software Engineer,7,402,1.7412935323383085
+redshift,Data Scientist,7,339,2.0648967551622417
+postgresql,Cloud Engineer,7,111,6.306306306306307
+linux,Senior Data Engineer,7,169,4.1420118343195265
+jenkins,Senior Data Scientist,7,111,6.306306306306307
+react,Data Scientist,7,339,2.0648967551622417
+tensorflow,Data Engineer,7,699,1.0014306151645207
+cassandra,Senior Data Engineer,7,169,4.1420118343195265
+kafka,Machine Learning Engineer,7,101,6.930693069306931
+node.js,Data Scientist,7,339,2.0648967551622417
+slack,Senior Data Engineer,7,169,4.1420118343195265
+bitbucket,Data Engineer,7,699,1.0014306151645207
+visio,Data Engineer,7,699,1.0014306151645207
+angular,Software Engineer,7,402,1.7412935323383085
+sql server,Data Scientist,7,339,2.0648967551622417
+github,Data Analyst,7,388,1.8041237113402062
+hadoop,Data Analyst,7,388,1.8041237113402062
+go,Senior Data Analyst,7,67,10.447761194029852
+gitlab,Cloud Engineer,7,111,6.306306306306307
+django,Data Engineer,7,699,1.0014306151645207
+scikit-learn,Data Engineer,7,699,1.0014306151645207
+git,Cloud Engineer,7,111,6.306306306306307
+typescript,Cloud Engineer,7,111,6.306306306306307
+word,Data Engineer,7,699,1.0014306151645207
+bigquery,Senior Data Analyst,6,67,8.955223880597014
+sql server,Data Analyst,6,388,1.5463917525773196
+slack,Software Engineer,6,402,1.492537313432836
+php,Cloud Engineer,6,111,5.405405405405405
+sas,Senior Data Scientist,6,111,5.405405405405405
+scala,Data Analyst,6,388,1.5463917525773196
+c,Data Engineer,6,699,0.8583690987124464
+dynamodb,Senior Data Engineer,6,169,3.5502958579881656
+ruby,Senior Data Engineer,6,169,3.5502958579881656
+ruby,Data Scientist,6,339,1.7699115044247788
+ruby,Cloud Engineer,6,111,5.405405405405405
+hadoop,Software Engineer,6,402,1.492537313432836
+hadoop,Machine Learning Engineer,6,101,5.9405940594059405
+sas,Business Analyst,6,177,3.389830508474576
+github,Data Scientist,6,339,1.7699115044247788
+bigquery,Machine Learning Engineer,6,101,5.9405940594059405
+unity,Software Engineer,6,402,1.492537313432836
+alteryx,Data Analyst,6,388,1.5463917525773196
+graphql,Data Engineer,6,699,0.8583690987124464
+node.js,Senior Data Engineer,6,169,3.5502958579881656
+vue.js,Software Engineer,6,402,1.492537313432836
+powershell,Cloud Engineer,6,111,5.405405405405405
+sql server,Senior Data Engineer,6,169,3.5502958579881656
+bash,Data Scientist,6,339,1.7699115044247788
+express,Software Engineer,6,402,1.492537313432836
+keras,Data Scientist,6,339,1.7699115044247788
+jira,Senior Data Engineer,6,169,3.5502958579881656
+redis,Senior Data Engineer,6,169,3.5502958579881656
+react.js,Software Engineer,6,402,1.492537313432836
+kafka,Cloud Engineer,6,111,5.405405405405405
+unix,Data Scientist,6,339,1.7699115044247788
+gdpr,Senior Data Scientist,6,111,5.405405405405405
+power bi,Cloud Engineer,6,111,5.405405405405405
+postgresql,Senior Data Engineer,6,169,3.5502958579881656
+pyspark,Data Analyst,6,388,1.5463917525773196
+tensorflow,Data Analyst,6,388,1.5463917525773196
+aws,Senior Data Analyst,6,67,8.955223880597014
+sql server,Software Engineer,6,402,1.492537313432836
+pandas,Data Analyst,6,388,1.5463917525773196
+react,Data Analyst,6,388,1.5463917525773196
+javascript,Business Analyst,6,177,3.389830508474576
+cassandra,Software Engineer,6,402,1.492537313432836
+confluence,Business Analyst,6,177,3.389830508474576
+typescript,Machine Learning Engineer,6,101,5.9405940594059405
+mariadb,Data Engineer,5,699,0.7153075822603719
+powershell,Software Engineer,5,402,1.243781094527363
+looker,Software Engineer,5,402,1.243781094527363
+windows,Data Scientist,5,339,1.4749262536873156
+pyspark,Senior Data Engineer,5,169,2.9585798816568047
+matlab,Senior Data Scientist,5,111,4.504504504504505
+pandas,Machine Learning Engineer,5,101,4.9504950495049505
+databricks,Software Engineer,5,402,1.243781094527363
+pandas,Senior Data Engineer,5,169,2.9585798816568047
+perl,Data Scientist,5,339,1.4749262536873156
+databricks,Senior Data Analyst,5,67,7.462686567164179
+node.js,Cloud Engineer,5,111,4.504504504504505
+vba,Business Analyst,5,177,2.824858757062147
+atlassian,Software Engineer,5,402,1.243781094527363
+asp.net,Software Engineer,5,402,1.243781094527363
+word,Software Engineer,5,402,1.243781094527363
+word,Senior Data Analyst,5,67,7.462686567164179
+openstack,Software Engineer,5,402,1.243781094527363
+numpy,Machine Learning Engineer,5,101,4.9504950495049505
+c++,Data Analyst,5,388,1.288659793814433
+javascript,Senior Data Scientist,5,111,4.504504504504505
+jira,Data Scientist,5,339,1.4749262536873156
+matlab,Cloud Engineer,5,111,4.504504504504505
+julia,Data Analyst,5,388,1.288659793814433
+javascript,Senior Data Engineer,5,169,2.9585798816568047
+bash,Cloud Engineer,5,111,4.504504504504505
+golang,Senior Data Engineer,5,169,2.9585798816568047
+debian,Software Engineer,5,402,1.243781094527363
+github,Cloud Engineer,5,111,4.504504504504505
+github,Senior Data Analyst,5,67,7.462686567164179
+sheets,Data Analyst,5,388,1.288659793814433
+snowflake,Cloud Engineer,5,111,4.504504504504505
+splunk,Data Engineer,5,699,0.7153075822603719
+terminal,Data Analyst,5,388,1.288659793814433
+github,Senior Data Scientist,5,111,4.504504504504505
+dynamodb,Data Engineer,5,699,0.7153075822603719
+dynamodb,Data Scientist,5,339,1.4749262536873156
+elasticsearch,Machine Learning Engineer,5,101,4.9504950495049505
+java,Senior Data Scientist,5,111,4.504504504504505
+flask,Data Scientist,5,339,1.4749262536873156
+css,Cloud Engineer,5,111,4.504504504504505
+redshift,Business Analyst,5,177,2.824858757062147
+flask,Data Engineer,5,699,0.7153075822603719
+jenkins,Cloud Engineer,5,111,4.504504504504505
+react,Machine Learning Engineer,5,101,4.9504950495049505
+spss,Data Analyst,4,388,1.0309278350515463
+dynamodb,Machine Learning Engineer,4,101,3.9603960396039604
+dynamodb,Software Engineer,4,402,0.9950248756218906
+gdpr,Business Analyst,4,177,2.2598870056497176
+sharepoint,Data Analyst,4,388,1.0309278350515463
+seaborn,Data Scientist,4,339,1.1799410029498525
+perl,Software Engineer,4,402,0.9950248756218906
+rust,Data Engineer,4,699,0.5722460658082976
+gdpr,Cloud Engineer,4,111,3.6036036036036037
+dax,Data Engineer,4,699,0.5722460658082976
+php,Senior Data Analyst,4,67,5.970149253731344
+asp.net core,Software Engineer,4,402,0.9950248756218906
+mysql,Cloud Engineer,4,111,3.6036036036036037
+sql server,Cloud Engineer,4,111,3.6036036036036037
+golang,Data Engineer,4,699,0.5722460658082976
+rust,Software Engineer,4,402,0.9950248756218906
+html,Senior Data Analyst,4,67,5.970149253731344
+sas,Data Engineer,4,699,0.5722460658082976
+unix,Software Engineer,4,402,0.9950248756218906
+confluence,Senior Data Engineer,4,169,2.366863905325444
+javascript,Senior Data Analyst,4,67,5.970149253731344
+jira,Data Analyst,4,388,1.0309278350515463
+jira,Cloud Engineer,4,111,3.6036036036036037
+unity,Data Engineer,4,699,0.5722460658082976
+julia,Data Scientist,4,339,1.1799410029498525
+kafka,Data Analyst,4,388,1.0309278350515463
+clojure,Software Engineer,4,402,0.9950248756218906
+tableau,Software Engineer,4,402,0.9950248756218906
+qt,Data Analyst,4,388,1.0309278350515463
+pytorch,Data Engineer,4,699,0.5722460658082976
+kotlin,Data Engineer,4,699,0.5722460658082976
+firebase,Senior Data Analyst,4,67,5.970149253731344
+bigquery,Cloud Engineer,4,111,3.6036036036036037
+typescript,Data Scientist,4,339,1.1799410029498525
+firebase,Cloud Engineer,4,111,3.6036036036036037
+shell,Data Engineer,4,699,0.5722460658082976
+redis,Data Scientist,4,339,1.1799410029498525
+ssis,Senior Data Engineer,4,169,2.366863905325444
+ubuntu,Cloud Engineer,4,111,3.6036036036036037
+macos,Software Engineer,4,402,0.9950248756218906
+oracle,Machine Learning Engineer,4,101,3.9603960396039604
+linux,Machine Learning Engineer,4,101,3.9603960396039604
+terraform,Senior Data Analyst,4,67,5.970149253731344
+puppet,Software Engineer,4,402,0.9950248756218906
+flow,Senior Data Engineer,4,169,2.366863905325444
+postgresql,Data Analyst,4,388,1.0309278350515463
+c#,Senior Data Engineer,4,169,2.366863905325444
+c++,Cloud Engineer,4,111,3.6036036036036037
+matlab,Senior Data Analyst,4,67,5.970149253731344
+mongodb,Cloud Engineer,4,111,3.6036036036036037
+notion,Software Engineer,4,402,0.9950248756218906
+notion,Data Engineer,4,699,0.5722460658082976
+powerpoint,Business Analyst,4,177,2.2598870056497176
+spark,Business Analyst,4,177,2.2598870056497176
+zoom,Software Engineer,4,402,0.9950248756218906
+alteryx,Data Scientist,4,339,1.1799410029498525
+windows,Cloud Engineer,4,111,3.6036036036036037
+airflow,Cloud Engineer,4,111,3.6036036036036037
+airflow,Business Analyst,3,177,1.694915254237288
+word,Senior Data Scientist,3,111,2.7027027027027026
+word,Business Analyst,3,177,1.694915254237288
+node,Data Engineer,3,699,0.4291845493562232
+opencv,Machine Learning Engineer,3,101,2.9702970297029703
+bigquery,Senior Data Scientist,3,111,2.7027027027027026
+aurora,Senior Data Engineer,3,169,1.7751479289940828
+c#,Data Analyst,3,388,0.7731958762886598
+c,Senior Data Scientist,3,111,2.7027027027027026
+perl,Data Engineer,3,699,0.4291845493562232
+php,Data Engineer,3,699,0.4291845493562232
+unreal,Software Engineer,3,402,0.746268656716418
+typescript,Data Analyst,3,388,0.7731958762886598
+terminal,Data Engineer,3,699,0.4291845493562232
+matlab,Machine Learning Engineer,3,101,2.9702970297029703
+nosql,Cloud Engineer,3,111,2.7027027027027026
+node,Software Engineer,3,402,0.746268656716418
+tensorflow,Senior Data Scientist,3,111,2.7027027027027026
+tableau,Senior Data Engineer,3,169,1.7751479289940828
+swift,Software Engineer,3,402,0.746268656716418
+c++,Data Scientist,3,339,0.8849557522123894
+next.js,Software Engineer,3,402,0.746268656716418
+power bi,Software Engineer,3,402,0.746268656716418
+c++,Senior Data Engineer,3,169,1.7751479289940828
+svelte,Software Engineer,3,402,0.746268656716418
+numpy,Data Analyst,3,388,0.7731958762886598
+chef,Software Engineer,3,402,0.746268656716418
+c,Cloud Engineer,3,111,2.7027027027027026
+bitbucket,Senior Data Engineer,3,169,1.7751479289940828
+terminal,Senior Data Engineer,3,169,1.7751479289940828
+redshift,Cloud Engineer,3,111,2.7027027027027026
+jupyter,Software Engineer,3,402,0.746268656716418
+jupyter,Data Engineer,3,699,0.4291845493562232
+jupyter,Data Analyst,3,388,0.7731958762886598
+spark,Cloud Engineer,3,111,2.7027027027027026
+dynamodb,Data Analyst,3,388,0.7731958762886598
+hadoop,Cloud Engineer,3,111,2.7027027027027026
+css,Data Analyst,3,388,0.7731958762886598
+r,Cloud Engineer,3,111,2.7027027027027026
+java,Business Analyst,3,177,1.694915254237288
+spss,Senior Data Scientist,3,111,2.7027027027027026
+css,Data Engineer,3,699,0.4291845493562232
+html,Data Engineer,3,699,0.4291845493562232
+fastify,Data Scientist,3,339,0.8849557522123894
+docker,Data Analyst,3,388,0.7731958762886598
+qlik,Senior Data Scientist,3,111,2.7027027027027026
+sql server,Senior Data Analyst,3,67,4.477611940298507
+ssis,Data Scientist,3,339,0.8849557522123894
+ssis,Data Analyst,3,388,0.7731958762886598
+db2,Senior Data Scientist,3,111,2.7027027027027026
+sql server,Senior Data Scientist,3,111,2.7027027027027026
+keras,Machine Learning Engineer,3,101,2.9702970297029703
+kotlin,Machine Learning Engineer,3,101,2.9702970297029703
+kotlin,Senior Data Engineer,3,169,1.7751479289940828
+db2,Data Scientist,3,339,0.8849557522123894
+looker,Senior Data Engineer,3,169,1.7751479289940828
+r,Software Engineer,3,402,0.746268656716418
+ssis,Senior Data Scientist,3,111,2.7027027027027026
+microsoft teams,Software Engineer,3,402,0.746268656716418
+cognos,Data Analyst,3,388,0.7731958762886598
+confluence,Data Scientist,3,339,0.8849557522123894
+pytorch,Software Engineer,3,402,0.746268656716418
+mysql,Business Analyst,3,177,1.694915254237288
+redshift,Senior Data Analyst,3,67,4.477611940298507
+gcp,Data Analyst,3,388,0.7731958762886598
+scikit-learn,Software Engineer,3,402,0.746268656716418
+sap,Senior Data Scientist,3,111,2.7027027027027026
+selenium,Software Engineer,3,402,0.746268656716418
+graphql,Cloud Engineer,3,111,2.7027027027027026
+scala,Machine Learning Engineer,3,101,2.9702970297029703
+gdpr,Data Engineer,3,699,0.4291845493562232
+nosql,Senior Data Scientist,3,111,2.7027027027027026
+ruby on rails,Software Engineer,3,402,0.746268656716418
+alteryx,Business Analyst,3,177,1.694915254237288
+ansible,Senior Data Engineer,3,169,1.7751479289940828
+graphql,Senior Data Engineer,3,169,1.7751479289940828
+git,Senior Data Analyst,3,67,4.477611940298507
+gcp,Business Analyst,3,177,1.694915254237288
+mysql,Senior Data Engineer,2,169,1.183431952662722
+numpy,Senior Data Engineer,2,169,1.183431952662722
+pandas,Senior Data Analyst,2,67,2.985074626865672
+bitbucket,Cloud Engineer,2,111,1.8018018018018018
+unity,Data Analyst,2,388,0.5154639175257731
+alteryx,Machine Learning Engineer,2,101,1.9801980198019802
+alteryx,Cloud Engineer,2,111,1.8018018018018018
+zoom,Data Analyst,2,388,0.5154639175257731
+numpy,Senior Data Analyst,2,67,2.985074626865672
+c#,Machine Learning Engineer,2,101,1.9801980198019802
+bigquery,Business Analyst,2,177,1.1299435028248588
+aurora,Data Engineer,2,699,0.2861230329041488
+typescript,Senior Data Engineer,2,169,1.183431952662722
+plotly,Data Scientist,2,339,0.5899705014749262
+postgresql,Machine Learning Engineer,2,101,1.9801980198019802
+nltk,Data Scientist,2,339,0.5899705014749262
+phoenix,Software Engineer,2,402,0.4975124378109453
+word,Data Scientist,2,339,0.5899705014749262
+neo4j,Data Scientist,2,339,0.5899705014749262
+neo4j,Senior Data Engineer,2,169,1.183431952662722
+matlab,Data Analyst,2,388,0.5154639175257731
+pyspark,Senior Data Scientist,2,111,1.8018018018018018
+puppet,Cloud Engineer,2,111,1.8018018018018018
+tensorflow,Senior Data Engineer,2,169,1.183431952662722
+t-sql,Cloud Engineer,2,111,1.8018018018018018
+powerpoint,Data Scientist,2,339,0.5899705014749262
+clojure,Data Engineer,2,699,0.2861230329041488
+terminal,Software Engineer,2,402,0.4975124378109453
+terminal,Cloud Engineer,2,111,1.8018018018018018
+mongodb,Machine Learning Engineer,2,101,1.9801980198019802
+cassandra,Data Engineer,2,699,0.2861230329041488
+nosql,Data Analyst,2,388,0.5154639175257731
+angular,Cloud Engineer,2,111,1.8018018018018018
+laravel,Software Engineer,2,402,0.4975124378109453
+mariadb,Data Scientist,2,339,0.5899705014749262
+debian,Data Engineer,2,699,0.2861230329041488
+confluence,Data Analyst,2,388,0.5154639175257731
+ssis,Business Analyst,2,177,1.1299435028248588
+ssis,Cloud Engineer,2,111,1.8018018018018018
+matplotlib,Data Scientist,2,339,0.5899705014749262
+c,Data Scientist,2,339,0.5899705014749262
+codecommit,Cloud Engineer,2,111,1.8018018018018018
+spring,Business Analyst,2,177,1.1299435028248588
+pytorch,Senior Data Engineer,2,169,1.183431952662722
+ssrs,Business Analyst,2,177,1.1299435028248588
+pytorch,Senior Data Scientist,2,111,1.8018018018018018
+swift,Data Engineer,2,699,0.2861230329041488
+mysql,Data Analyst,2,388,0.5154639175257731
+react,Business Analyst,2,177,1.1299435028248588
+jenkins,Business Analyst,2,177,1.1299435028248588
+html,Data Analyst,2,388,0.5154639175257731
+html,Data Scientist,2,339,0.5899705014749262
+html,Senior Data Scientist,2,111,1.8018018018018018
+fastapi,Data Scientist,2,339,0.5899705014749262
+express,Data Scientist,2,339,0.5899705014749262
+databricks,Cloud Engineer,2,111,1.8018018018018018
+splunk,Cloud Engineer,2,111,1.8018018018018018
+qt,Software Engineer,2,402,0.4975124378109453
+qlik,Software Engineer,2,402,0.4975124378109453
+qlik,Senior Data Analyst,2,67,2.985074626865672
+redis,Data Engineer,2,699,0.2861230329041488
+react.js,Senior Data Engineer,2,169,1.183431952662722
+jenkins,Machine Learning Engineer,2,101,1.9801980198019802
+r,Senior Data Engineer,2,169,1.183431952662722
+r,Machine Learning Engineer,2,101,1.9801980198019802
+spss,Business Analyst,2,177,1.1299435028248588
+databricks,Business Analyst,2,177,1.1299435028248588
+css,Senior Data Scientist,2,111,1.8018018018018018
+css,Data Scientist,2,339,0.5899705014749262
+sql server,Business Analyst,2,177,1.1299435028248588
+spring,Data Engineer,2,699,0.2861230329041488
+scikit-learn,Machine Learning Engineer,2,101,1.9801980198019802
+shell,Machine Learning Engineer,2,101,1.9801980198019802
+ruby,Business Analyst,2,177,1.1299435028248588
+ruby,Machine Learning Engineer,2,101,1.9801980198019802
+hadoop,Business Analyst,2,177,1.1299435028248588
+hadoop,Senior Data Analyst,2,67,2.985074626865672
+dynamodb,Cloud Engineer,2,111,1.8018018018018018
+spark,Senior Data Analyst,2,67,2.985074626865672
+smartsheet,Data Analyst,2,388,0.5154639175257731
+jquery,Software Engineer,2,402,0.4975124378109453
+sas,Software Engineer,2,402,0.4975124378109453
+firebase,Data Analyst,2,388,0.5154639175257731
+sheets,Business Analyst,2,177,1.1299435028248588
+sharepoint,Software Engineer,2,402,0.4975124378109453
+firebase,Software Engineer,2,402,0.4975124378109453
+shell,Data Scientist,2,339,0.5899705014749262
+elixir,Software Engineer,2,402,0.4975124378109453
+flow,Cloud Engineer,2,111,1.8018018018018018
+shell,Senior Data Engineer,2,169,1.183431952662722
+shell,Software Engineer,2,402,0.4975124378109453
+sas,Machine Learning Engineer,2,101,1.9801980198019802
+sas,Senior Data Analyst,2,67,2.985074626865672
+f#,Software Engineer,2,402,0.4975124378109453
+flutter,Software Engineer,2,402,0.4975124378109453
+github,Business Analyst,2,177,1.1299435028248588
+heroku,Software Engineer,2,402,0.4975124378109453
+github,Machine Learning Engineer,2,101,1.9801980198019802
+pandas,Business Analyst,2,177,1.1299435028248588
+oracle,Data Analyst,2,388,0.5154639175257731
+outlook,Data Engineer,2,699,0.2861230329041488
+oracle,Cloud Engineer,2,111,1.8018018018018018
+openstack,Cloud Engineer,2,111,1.8018018018018018
+assembly,Data Engineer,2,699,0.2861230329041488
+ansible,Data Scientist,2,339,0.5899705014749262
+zoom,Senior Data Scientist,2,111,1.8018018018018018
+unix,Data Engineer,2,699,0.2861230329041488
+unix,Data Analyst,2,388,0.5154639175257731
+unity,Senior Data Scientist,2,111,1.8018018018018018
+atlassian,Data Engineer,2,699,0.2861230329041488
+atlassian,Data Analyst,2,388,0.5154639175257731
+assembly,Software Engineer,2,402,0.4975124378109453
+vmware,Cloud Engineer,2,111,1.8018018018018018
+windows,Data Analyst,1,388,0.25773195876288657
+webex,Business Analyst,1,177,0.5649717514124294
+watson,Data Scientist,1,339,0.2949852507374631
+vmware,Software Engineer,1,402,0.24875621890547264
+vmware,Data Engineer,1,699,0.1430615164520744
+visual basic,Data Scientist,1,339,0.2949852507374631
+atlassian,Senior Data Analyst,1,67,1.492537313432836
+unreal,Business Analyst,1,177,0.5649717514124294
+unreal,Senior Data Engineer,1,169,0.591715976331361
+zoom,Data Scientist,1,339,0.2949852507374631
+unity,Machine Learning Engineer,1,101,0.9900990099009901
+asana,Senior Data Analyst,1,67,1.492537313432836
+opencv,Senior Data Scientist,1,111,0.9009009009009009
+outlook,Data Analyst,1,388,0.25773195876288657
+gdpr,Machine Learning Engineer,1,101,0.9900990099009901
+gitlab,Data Scientist,1,339,0.2949852507374631
+golang,Cloud Engineer,1,111,0.9009009009009009
+flow,Machine Learning Engineer,1,101,0.9900990099009901
+flow,Senior Data Analyst,1,67,1.492537313432836
+flow,Senior Data Scientist,1,111,0.9009009009009009
+selenium,Business Analyst,1,177,0.5649717514124294
+sap,Cloud Engineer,1,111,0.9009009009009009
+sap,Machine Learning Engineer,1,101,0.9900990099009901
+sap,Software Engineer,1,402,0.24875621890547264
+html,Business Analyst,1,177,0.5649717514124294
+sheets,Data Engineer,1,699,0.1430615164520744
+scala,Business Analyst,1,177,0.5649717514124294
+scala,Senior Data Scientist,1,111,0.9009009009009009
+scikit-learn,Data Analyst,1,388,0.25773195876288657
+sharepoint,Business Analyst,1,177,0.5649717514124294
+sharepoint,Data Engineer,1,699,0.1430615164520744
+sharepoint,Data Scientist,1,339,0.2949852507374631
+sharepoint,Senior Data Analyst,1,67,1.492537313432836
+flask,Senior Data Engineer,1,169,0.591715976331361
+redshift,Machine Learning Engineer,1,101,0.9900990099009901
+heroku,Business Analyst,1,177,0.5649717514124294
+groovy,Data Engineer,1,699,0.1430615164520744
+groovy,Software Engineer,1,402,0.24875621890547264
+haskell,Software Engineer,1,402,0.24875621890547264
+gitlab,Senior Data Engineer,1,169,0.591715976331361
+rust,Senior Data Engineer,1,169,0.591715976331361
+rust,Senior Data Scientist,1,111,0.9009009009009009
+slack,Business Analyst,1,177,0.5649717514124294
+slack,Cloud Engineer,1,111,0.9009009009009009
+slack,Data Scientist,1,339,0.2949852507374631
+slack,Senior Data Analyst,1,67,1.492537313432836
+slack,Senior Data Scientist,1,111,0.9009009009009009
+elasticsearch,Data Analyst,1,388,0.25773195876288657
+elasticsearch,Data Scientist,1,339,0.2949852507374631
+db2,Senior Data Engineer,1,169,0.591715976331361
+erlang,Software Engineer,1,402,0.24875621890547264
+excel,Cloud Engineer,1,111,0.9009009009009009
+jupyter,Machine Learning Engineer,1,101,0.9900990099009901
+jupyter,Senior Data Engineer,1,169,0.591715976331361
+hugging face,Data Scientist,1,339,0.2949852507374631
+ibm cloud,Data Scientist,1,339,0.2949852507374631
+ionic,Data Scientist,1,339,0.2949852507374631
+ionic,Software Engineer,1,402,0.24875621890547264
+express,Cloud Engineer,1,111,0.9009009009009009
+express,Senior Data Scientist,1,111,0.9009009009009009
+fastapi,Senior Data Engineer,1,169,0.591715976331361
+fastify,Software Engineer,1,402,0.24875621890547264
+django,Machine Learning Engineer,1,101,0.9900990099009901
+django,Senior Data Engineer,1,169,0.591715976331361
+docker,Senior Data Analyst,1,67,1.492537313432836
+splunk,Senior Data Scientist,1,111,0.9009009009009009
+splunk,Software Engineer,1,402,0.24875621890547264
+spreadsheet,Data Analyst,1,388,0.25773195876288657
+jquery,Data Scientist,1,339,0.2949852507374631
+jenkins,Data Scientist,1,339,0.2949852507374631
+jira,Senior Data Analyst,1,67,1.492537313432836
+react,Senior Data Scientist,1,111,0.9009009009009009
+react.js,Data Engineer,1,699,0.1430615164520744
+redis,Cloud Engineer,1,111,0.9009009009009009
+spring,Data Scientist,1,339,0.2949852507374631
+spring,Senior Data Engineer,1,169,0.591715976331361
+spss,Data Scientist,1,339,0.2949852507374631
+dart,Software Engineer,1,402,0.24875621890547264
+datarobot,Machine Learning Engineer,1,101,0.9900990099009901
+linux,Business Analyst,1,177,0.5649717514124294
+linux,Senior Data Analyst,1,67,1.492537313432836
+linux,Senior Data Scientist,1,111,0.9009009009009009
+mariadb,Software Engineer,1,402,0.24875621890547264
+keras,Data Engineer,1,699,0.1430615164520744
+keras,Senior Data Engineer,1,169,0.591715976331361
+keras,Senior Data Scientist,1,111,0.9009009009009009
+kotlin,Data Analyst,1,388,0.25773195876288657
+kubernetes,Business Analyst,1,177,0.5649717514124294
+kubernetes,Data Analyst,1,388,0.25773195876288657
+dax,Software Engineer,1,402,0.24875621890547264
+django,Business Analyst,1,177,0.5649717514124294
+django,Data Scientist,1,339,0.2949852507374631
+t-sql,Software Engineer,1,402,0.24875621890547264
+ssrs,Cloud Engineer,1,111,0.9009009009009009
+matlab,Senior Data Engineer,1,169,0.591715976331361
+matlab,Software Engineer,1,402,0.24875621890547264
+microstrategy,Data Scientist,1,339,0.2949852507374631
+mongo,Data Engineer,1,699,0.1430615164520744
+mongo,Data Scientist,1,339,0.2949852507374631
+pytorch,Cloud Engineer,1,111,0.9009009009009009
+qlik,Machine Learning Engineer,1,101,0.9900990099009901
+pulumi,Senior Data Engineer,1,169,0.591715976331361
+kubernetes,Senior Data Scientist,1,111,0.9009009009009009
+ssrs,Data Analyst,1,388,0.25773195876288657
+ssrs,Data Scientist,1,339,0.2949852507374631
+ssrs,Senior Data Engineer,1,169,0.591715976331361
+confluence,Senior Data Analyst,1,67,1.492537313432836
+cordova,Data Scientist,1,339,0.2949852507374631
+cordova,Software Engineer,1,402,0.24875621890547264
+clojure,Senior Data Engineer,1,169,0.591715976331361
+cobol,Software Engineer,1,402,0.24875621890547264
+svn,Data Engineer,1,699,0.1430615164520744
+svn,Software Engineer,1,402,0.24875621890547264
+swift,Data Analyst,1,388,0.25773195876288657
+mysql,Senior Data Analyst,1,67,1.492537313432836
+matlab,Business Analyst,1,177,0.5649717514124294
+matlab,Data Engineer,1,699,0.1430615164520744
+pyspark,Machine Learning Engineer,1,101,0.9900990099009901
+pyspark,Software Engineer,1,402,0.24875621890547264
+power bi,Machine Learning Engineer,1,101,0.9900990099009901
+swift,Data Scientist,1,339,0.2949852507374631
+symphony,Data Engineer,1,699,0.1430615164520744
+symphony,Senior Data Engineer,1,169,0.591715976331361
+t-sql,Data Analyst,1,388,0.25773195876288657
+t-sql,Senior Data Analyst,1,67,1.492537313432836
+c#,Senior Data Scientist,1,111,0.9009009009009009
+c++,Business Analyst,1,177,0.5649717514124294
+tableau,Machine Learning Engineer,1,101,0.9900990099009901
+tensorflow,Cloud Engineer,1,111,0.9009009009009009
+tensorflow,Software Engineer,1,402,0.24875621890547264
+node.js,Business Analyst,1,177,0.5649717514124294
+nosql,Machine Learning Engineer,1,101,0.9900990099009901
+numpy,Business Analyst,1,177,0.5649717514124294
+powerpoint,Data Engineer,1,699,0.1430615164520744
+powerpoint,Senior Data Analyst,1,67,1.492537313432836
+powerpoint,Software Engineer,1,402,0.24875621890547264
+powershell,Senior Data Analyst,1,67,1.492537313432836
+powershell,Senior Data Scientist,1,111,0.9009009009009009
+planner,Data Analyst,1,388,0.25773195876288657
+c++,Senior Data Scientist,1,111,0.9009009009009009
+chef,Senior Data Scientist,1,111,0.9009009009009009
+bitbucket,Data Scientist,1,339,0.2949852507374631
+bitbucket,Software Engineer,1,402,0.24875621890547264
+terminal,Machine Learning Engineer,1,101,0.9900990099009901
+perl,Cloud Engineer,1,111,0.9009009009009009
+phoenix,Data Engineer,1,699,0.1430615164520744
+php,Business Analyst,1,177,0.5649717514124294
+php,Senior Data Engineer,1,169,0.591715976331361
+no-sql,Software Engineer,1,402,0.24875621890547264
+node,Business Analyst,1,177,0.5649717514124294
+planner,Senior Data Scientist,1,111,0.9009009009009009
+postgresql,Business Analyst,1,177,0.5649717514124294
+node,Data Scientist,1,339,0.2949852507374631
+node,Machine Learning Engineer,1,101,0.9900990099009901
+trello,Senior Data Scientist,1,111,0.9009009009009009
+typescript,Business Analyst,1,177,0.5649717514124294
+c,Machine Learning Engineer,1,101,0.9900990099009901
+c#,Data Scientist,1,339,0.2949852507374631
+bash,Business Analyst,1,177,0.5649717514124294
+bash,Data Analyst,1,388,0.25773195876288657
+bash,Senior Data Scientist,1,111,0.9009009009009009
+typescript,Senior Data Scientist,1,111,0.9009009009009009
+ubuntu,Data Engineer,1,699,0.1430615164520744
+vba,Data Scientist,1,339,0.2949852507374631
+vba,Senior Data Analyst,1,67,1.492537313432836
+visio,Data Analyst,1,388,0.25773195876288657
+aurora,Software Engineer,1,402,0.24875621890547264
+angular,Machine Learning Engineer,1,101,0.9900990099009901
+numpy,Senior Data Scientist,1,111,0.9009009009009009
+objective-c,Data Analyst,1,388,0.25773195876288657
+objective-c,Software Engineer,1,402,0.24875621890547264
+ocaml,Software Engineer,1,402,0.24875621890547264
+unify,Software Engineer,1,402,0.24875621890547264
+unity,Business Analyst,1,177,0.5649717514124294
+unity,Cloud Engineer,1,111,0.9009009009009009
+terminal,Business Analyst,1,177,0.5649717514124294
+visual basic,Data Analyst,1,388,0.25773195876288657
+word,Machine Learning Engineer,1,101,0.9900990099009901
+xamarin,Data Scientist,1,339,0.2949852507374631
+xamarin,Software Engineer,1,402,0.24875621890547264
+yarn,Data Engineer,1,699,0.1430615164520744
+windows,Data Engineer,1,699,0.1430615164520744
+alteryx,Data Engineer,1,699,0.1430615164520744
+windows,Machine Learning Engineer,1,101,0.9900990099009901
+alteryx,Senior Data Analyst,1,67,1.492537313432836
+windows,Senior Data Scientist,1,111,0.9009009009009009
+angular,Data Analyst,1,388,0.25773195876288657
+angular,Data Scientist,1,339,0.2949852507374631
